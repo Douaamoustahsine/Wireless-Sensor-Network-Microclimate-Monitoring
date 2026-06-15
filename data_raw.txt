@@ -1,0 +1,388 @@
+J#
+Receiving example
+Data: <=>†#6F18A2E80593E483#node_01#10#STR:Temp: 24.07, Hum: 47.56, Pres: 101376.63_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#11#STR:Temp: 24.08, Hum: 47.50, Pres: 101384.59_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#12#STR:Temp: 24.10, Hum: 47.49, Pres: 101385.27_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#13#STR:Temp: 24.13, Hum: 47.44, Pres: 101380.37_#BAT:95#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#14#STR:Temp: 24.13, Hum: 47.37, Pres: 101377.59_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#15#STR:Temp: 24.16, Hum: 47.34, Pres: 101380.00_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#16#STR:Temp: 24.32, Hum: 47.68, Pres: 101382.59_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#17#STR:Temp: 24.33, Hum: 47.66, Pres: 101380.88_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#18#STR:Temp: 24.33, Hum: 47.54, Pres: 101389.91_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#19#STR:Temp: 24.32, Hum: 47.39, Pres: 101388.16_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#20#STR:Temp: 24.34, Hum: 47.26, Pres: 101389.91_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#21#STR:Temp: 24.38, Hum: 47.17, Pres: 101389.55_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#22#STR:Temp: 24.37, Hum: 47.20, Pres: 101381.87_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#23#STR:Temp: 24.43, Hum: 47.60, Pres: 101383.22_#BAT:48#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#24#STR:Temp: 24.44, Hum: 47.41, Pres: 101390.50_#BAT:42#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#25#STR:Temp: 24.44, Hum: 47.40, Pres: 101386.86_#BAT:40#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#26#STR:Temp: 24.44, Hum: 47.14, Pres: 101385.80_#BAT:38#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#27#STR:Temp: 24.46, Hum: 46.99, Pres: 101390.11_#BAT:36#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#28#STR:Temp: 24.50, Hum: 46.95, Pres: 101388.02_#BAT:36#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#29#STR:Temp: 24.53, Hum: 46.85, Pres: 101388.48_#BAT:35#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#30#STR:Temp: 24.54, Hum: 46.79, Pres: 101383.58_#BAT:34#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#31#STR:Temp: 24.56, Hum: 46.70, Pres: 101392.81_#BAT:33#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#32#STR:Temp: 24.56, Hum: 46.61, Pres: 101383.41_#BAT:33#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#33#STR:Temp: 24.60, Hum: 46.55, Pres: 101388.58_#BAT:33#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#34#STR:Temp: 24.62, Hum: 46.53, Pres: 101392.71_#BAT:32#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#35#STR:Temp: 24.73, Hum: 47.27, Pres: 101386.67_#BAT:30#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#36#STR:Temp: 25.59, Hum: 48.23, Pres: 101390.22_#BAT:30#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#37#STR:Temp: 25.32, Hum: 47.19, Pres: 101385.23_#BAT:30#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#38#STR:Temp: 25.17, Hum: 46.58, Pres: 101392.73_#BAT:30#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#39#STR:Temp: 25.07, Hum: 46.41, Pres: 101390.94_#BAT:30#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#40#STR:Temp: 25.03, Hum: 46.27, Pres: 101389.59_#BAT:30#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#41#STR:Temp: 24.99, Hum: 46.10, Pres: 101392.95_#BAT:29#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#42#STR:Temp: 24.95, Hum: 46.01, Pres: 101390.58_#BAT:29#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#43#STR:Temp: 24.95, Hum: 45.95, Pres: 101392.46_#BAT:29#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#44#STR:Temp: 24.94, Hum: 46.00, Pres: 101391.60_#BAT:29#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#45#STR:Temp: 24.95, Hum: 45.88, Pres: 101388.66_#BAT:28#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#46#STR:Temp: 24.96, Hum: 45.81, Pres: 101391.89_#BAT:28#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#47#STR:Temp: 25.02, Hum: 46.07, Pres: 101396.22_#BAT:28#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#48#STR:Temp: 24.99, Hum: 46.03, Pres: 101385.27_#BAT:28#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#49#STR:Temp: 25.00, Hum: 45.93, Pres: 101390.66_#BAT:28#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#50#STR:Temp: 25.02, Hum: 45.81, Pres: 101397.73_#BAT:28#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#51#STR:Temp: 25.04, Hum: 45.68, Pres: 101393.23_#BAT:26#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#52#STR:Temp: 25.06, Hum: 45.70, Pres: 101383.66_#BAT:27#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#53#STR:Temp: 25.06, Hum: 45.63, Pres: 101391.80_#BAT:27#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#54#STR:Temp: 25.09, Hum: 45.58, Pres: 101390.56_#BAT:26#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#55#STR:Temp: 25.10, Hum: 45.53, Pres: 101393.15_#BAT:26#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#56#STR:Temp: 25.13, Hum: 45.53, Pres: 101394.87_#BAT:26#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#57#STR:Temp: 25.16, Hum: 45.50, Pres: 101385.45_#BAT:26#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#58#STR:Temp: 25.13, Hum: 45.43, Pres: 101394.87_#BAT:26#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#59#STR:Temp: 25.13, Hum: 45.46, Pres: 101388.23_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#60#STR:Temp: 25.13, Hum: 45.44, Pres: 101394.87_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#61#STR:Temp: 25.12, Hum: 45.37, Pres: 101385.45_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#62#STR:Temp: 25.14, Hum: 45.97, Pres: 101392.73_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#63#STR:Temp: 25.14, Hum: 45.79, Pres: 101388.03_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#64#STR:Temp: 25.14, Hum: 45.64, Pres: 101395.53_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#65#STR:Temp: 25.16, Hum: 45.53, Pres: 101396.22_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#66#STR:Temp: 25.18, Hum: 45.51, Pres: 101388.52_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#67#STR:Temp: 25.20, Hum: 45.38, Pres: 101395.81_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#68#STR:Temp: 25.20, Hum: 45.35, Pres: 101395.81_#BAT:25#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#69#STR:Temp: 25.18, Hum: 45.21, Pres: 101391.30_#BAT:24#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#70#STR:Temp: 25.19, Hum: 45.16, Pres: 101390.24_#BAT:24#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#71#STR:Temp: 25.18, Hum: 45.10, Pres: 101394.95_#BAT:24#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#72#STR:Temp: 25.22, Hum: 45.12, Pres: 101384.30_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#73#STR:Temp: 25.21, Hum: 45.09, Pres: 101389.87_#BAT:24#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#74#STR:Temp: 25.22, Hum: 45.08, Pres: 101389.87_#BAT:24#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#75#STR:Temp: 25.21, Hum: 45.08, Pres: 101388.11_#BAT:24#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#76#STR:Temp: 25.23, Hum: 45.07, Pres: 101396.30_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#77#STR:Temp: 25.23, Hum: 45.06, Pres: 101398.88_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#78#STR:Temp: 25.25, Hum: 45.06, Pres: 101390.31_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#79#STR:Temp: 25.27, Hum: 45.04, Pres: 101392.03_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#80#STR:Temp: 25.28, Hum: 44.99, Pres: 101394.65_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#81#STR:Temp: 25.26, Hum: 45.08, Pres: 101394.65_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#82#STR:Temp: 25.26, Hum: 45.08, Pres: 101397.60_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#83#STR:Temp: 25.28, Hum: 45.05, Pres: 101391.17_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#84#STR:Temp: 25.27, Hum: 45.12, Pres: 101386.47_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#85#STR:Temp: 25.27, Hum: 45.07, Pres: 101392.03_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#86#STR:Temp: 25.29, Hum: 45.10, Pres: 101394.45_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#87#STR:Temp: 25.32, Hum: 45.04, Pres: 101394.23_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#88#STR:Temp: 25.30, Hum: 45.01, Pres: 101394.23_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#89#STR:Temp: 25.32, Hum: 44.99, Pres: 101389.73_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#90#STR:Temp: 25.32, Hum: 44.97, Pres: 101392.11_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#91#STR:Temp: 25.33, Hum: 44.90, Pres: 101392.11_#BAT:22#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#92#STR:Temp: 25.32, Hum: 44.92, Pres: 101396.16_#BAT:23#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#93#STR:Temp: 25.33, Hum: 44.82, Pres: 101395.95_#BAT:22#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#94#STR:Temp: 25.34, Hum: 44.90, Pres: 101396.61_#BAT:22#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#95#STR:Temp: 25.36, Hum: 44.88, Pres: 101388.95_#BAT:22#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#96#STR:Temp: 25.35, Hum: 44.84, Pres: 101393.66_#BAT:22#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#97#STR:Temp: 25.36, Hum: 44.84, Pres: 101390.88_#BAT:22#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#98#STR:Temp: 25.34, Hum: 44.85, Pres: 101391.05_#BAT:22#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#99#STR:Temp: 25.35, Hum: 44.84, Pres: 101386.55_#BAT:22#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#100#STR:Temp: 25.34, Hum: 44.85, Pres: 101392.97_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#101#STR:Temp: 25.34, Hum: 44.87, Pres: 101390.02_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#102#STR:Temp: 25.38, Hum: 44.88, Pres: 101393.45_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#103#STR:Temp: 25.38, Hum: 44.84, Pres: 101394.31_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#104#STR:Temp: 25.39, Hum: 44.83, Pres: 101396.89_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#105#STR:Temp: 25.39, Hum: 44.81, Pres: 101393.45_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#106#STR:Temp: 25.37, Hum: 44.78, Pres: 101391.73_#BAT:21#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#107#STR:Temp: 25.37, Hum: 44.71, Pres: 101388.95_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#108#STR:Temp: 25.41, Hum: 45.15, Pres: 101388.16_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#109#STR:Temp: 25.39, Hum: 45.11, Pres: 101386.82_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#110#STR:Temp: 25.36, Hum: 45.03, Pres: 101390.02_#BAT:22#
+Length: 88
+Data: <=>†#6F18A2E80593E483#node_01#0#STR:Temp: 25.38, Hum: 45.12, Pres: 101390.67_#BAT:92#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#1#STR:Temp: 25.37, Hum: 44.97, Pres: 101383.59_#BAT:93#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#2#STR:Temp: 25.34, Hum: 44.98, Pres: 101396.61_#BAT:93#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#3#STR:Temp: 25.31, Hum: 44.87, Pres: 101394.45_#BAT:94#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#4#STR:Temp: 25.27, Hum: 44.87, Pres: 101391.86_#BAT:95#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#5#STR:Temp: 25.32, Hum: 44.93, Pres: 101398.74_#BAT:95#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#6#STR:Temp: 25.30, Hum: 44.84, Pres: 101390.80_#BAT:95#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#7#STR:Temp: 25.30, Hum: 44.78, Pres: 101395.51_#BAT:95#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#8#STR:Temp: 25.26, Hum: 44.94, Pres: 101392.90_#BAT:95#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#9#STR:Temp: 25.29, Hum: 44.95, Pres: 101389.08_#BAT:95#
+Length: 86
+Data: <=>†#6F18A2E80593E483#node_01#10#STR:Temp: 25.34, Hum: 44.95, Pres: 101392.11_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#11#STR:Temp: 25.36, Hum: 44.89, Pres: 101391.73_#BAT:95#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#12#STR:Temp: 25.40, Hum: 44.81, Pres: 101394.11_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#13#STR:Temp: 25.38, Hum: 44.97, Pres: 101384.03_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#14#STR:Temp: 25.35, Hum: 44.96, Pres: 101399.39_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#15#STR:Temp: 25.33, Hum: 44.88, Pres: 101387.61_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#16#STR:Temp: 25.35, Hum: 44.86, Pres: 101392.11_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#17#STR:Temp: 25.31, Hum: 44.81, Pres: 101398.09_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#18#STR:Temp: 25.29, Hum: 44.80, Pres: 101391.86_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#19#STR:Temp: 25.28, Hum: 44.90, Pres: 101394.65_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#20#STR:Temp: 25.28, Hum: 44.75, Pres: 101389.08_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#21#STR:Temp: 25.28, Hum: 44.76, Pres: 101389.08_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#22#STR:Temp: 25.31, Hum: 44.74, Pres: 101391.45_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#23#STR:Temp: 25.28, Hum: 44.75, Pres: 101395.51_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#24#STR:Temp: 25.25, Hum: 44.74, Pres: 101396.74_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#25#STR:Temp: 25.26, Hum: 44.75, Pres: 101382.83_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#26#STR:Temp: 25.30, Hum: 44.80, Pres: 101393.38_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#27#STR:Temp: 25.34, Hum: 44.80, Pres: 101397.68_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#28#STR:Temp: 25.35, Hum: 44.62, Pres: 101394.72_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#29#STR:Temp: 25.34, Hum: 44.76, Pres: 101397.50_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#30#STR:Temp: 25.33, Hum: 44.71, Pres: 101390.39_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#31#STR:Temp: 25.38, Hum: 44.73, Pres: 101384.03_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#32#STR:Temp: 25.40, Hum: 44.70, Pres: 101390.09_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#33#STR:Temp: 25.47, Hum: 44.72, Pres: 101383.91_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#34#STR:Temp: 25.50, Hum: 44.59, Pres: 101386.30_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#35#STR:Temp: 25.49, Hum: 44.63, Pres: 101388.41_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#36#STR:Temp: 25.51, Hum: 44.61, Pres: 101388.03_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#37#STR:Temp: 25.47, Hum: 44.56, Pres: 101391.19_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#38#STR:Temp: 25.45, Hum: 44.52, Pres: 101393.32_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#39#STR:Temp: 25.47, Hum: 44.41, Pres: 101386.69_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#40#STR:Temp: 25.44, Hum: 44.45, Pres: 101388.16_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#41#STR:Temp: 25.42, Hum: 44.41, Pres: 101396.69_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#42#STR:Temp: 25.41, Hum: 44.46, Pres: 101388.33_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#43#STR:Temp: 25.38, Hum: 44.45, Pres: 101385.10_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#44#STR:Temp: 25.36, Hum: 44.54, Pres: 101399.23_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#45#STR:Temp: 25.32, Hum: 44.54, Pres: 101392.31_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#46#STR:Temp: 25.33, Hum: 44.65, Pres: 101395.95_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#47#STR:Temp: 25.30, Hum: 44.61, Pres: 101392.52_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#48#STR:Temp: 25.28, Hum: 44.47, Pres: 101398.95_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#49#STR:Temp: 25.34, Hum: 44.73, Pres: 101399.39_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#50#STR:Temp: 25.35, Hum: 44.67, Pres: 101400.09_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#51#STR:Temp: 25.34, Hum: 44.66, Pres: 101396.82_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#52#STR:Temp: 25.30, Hum: 44.75, Pres: 101397.23_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#53#STR:Temp: 25.30, Hum: 44.74, Pres: 101400.88_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#54#STR:Temp: 25.31, Hum: 44.64, Pres: 101395.09_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#55#STR:Temp: 25.34, Hum: 44.64, Pres: 101400.29_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#56#STR:Temp: 25.36, Hum: 44.60, Pres: 101395.58_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#57#STR:Temp: 25.37, Hum: 44.51, Pres: 101401.15_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#58#STR:Temp: 25.38, Hum: 44.53, Pres: 101399.02_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#59#STR:Temp: 25.37, Hum: 44.39, Pres: 101396.23_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#60#STR:Temp: 25.36, Hum: 44.53, Pres: 101394.52_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#61#STR:Temp: 25.37, Hum: 44.51, Pres: 101397.30_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#62#STR:Temp: 25.37, Hum: 44.51, Pres: 101400.74_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#63#STR:Temp: 25.37, Hum: 44.50, Pres: 101391.73_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#64#STR:Temp: 25.36, Hum: 44.49, Pres: 101402.88_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#65#STR:Temp: 25.36, Hum: 44.51, Pres: 101402.88_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#66#STR:Temp: 25.38, Hum: 44.54, Pres: 101399.02_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#67#STR:Temp: 25.39, Hum: 44.59, Pres: 101396.03_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#68#STR:Temp: 25.40, Hum: 44.59, Pres: 101404.18_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#69#STR:Temp: 25.39, Hum: 44.56, Pres: 101399.02_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#70#STR:Temp: 25.37, Hum: 44.53, Pres: 101402.88_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#71#STR:Temp: 25.36, Hum: 44.50, Pres: 101402.88_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#72#STR:Temp: 25.36, Hum: 44.47, Pres: 101401.15_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#73#STR:Temp: 25.36, Hum: 44.49, Pres: 101396.44_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#74#STR:Temp: 25.36, Hum: 44.47, Pres: 101397.30_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#75#STR:Temp: 25.37, Hum: 44.47, Pres: 101401.15_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#76#STR:Temp: 25.37, Hum: 44.45, Pres: 101402.88_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#77#STR:Temp: 25.37, Hum: 44.45, Pres: 101402.01_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#78#STR:Temp: 25.35, Hum: 44.45, Pres: 101404.80_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#79#STR:Temp: 25.34, Hum: 44.46, Pres: 101404.97_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#80#STR:Temp: 25.38, Hum: 44.46, Pres: 101401.80_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#81#STR:Temp: 25.40, Hum: 44.46, Pres: 101398.61_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#82#STR:Temp: 25.43, Hum: 44.46, Pres: 101401.02_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#83#STR:Temp: 25.43, Hum: 44.43, Pres: 101398.23_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#84#STR:Temp: 25.43, Hum: 44.38, Pres: 101401.88_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#85#STR:Temp: 25.43, Hum: 44.37, Pres: 101403.80_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#86#STR:Temp: 25.42, Hum: 44.37, Pres: 101401.22_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#87#STR:Temp: 25.42, Hum: 44.36, Pres: 101407.66_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#88#STR:Temp: 25.42, Hum: 44.15, Pres: 101409.38_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#89#STR:Temp: 25.43, Hum: 44.34, Pres: 101413.22_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#90#STR:Temp: 25.42, Hum: 44.31, Pres: 101406.59_#BAT:96#
+Length: 87
+Data: <=>†#6F18A2E80593E483#node_01#91#STR:Temp: 25.43, Hum: 44.45, Pres: 101407.66_#BAT:96#
+Length: 87
